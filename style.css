@@ -158,3 +158,10 @@ ul {
     font-size: 18px;
     margin-top: 0;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #F9FAF8;
+    text-align: center;
+    padding: 32px;
+}
